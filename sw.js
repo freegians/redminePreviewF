@@ -17,5 +17,5 @@ if(sw == 'active') {
   $('#wiki_form').css('width', '50%');
   $('#preview').css('width', '50%');
   $('#sidebar').css('display', 'none');
-  $('#content').css('width', '100%');
+  $('#content').css('width', 'initial');
 }
