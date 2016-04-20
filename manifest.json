@@ -1,0 +1,16 @@
+{
+  "name": "Redmine-preview",
+  "description": "change position of preview",
+  "version": "2.0",
+  "permissions": [
+    "activeTab"
+  ],
+  "background": {
+    "scripts": ["app.js"],
+    "persistent": false
+  },
+  "browser_action": {
+    "default_title": "Redmine-preview"
+  },
+  "manifest_version": 2
+}
